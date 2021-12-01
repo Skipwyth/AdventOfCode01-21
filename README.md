@@ -1,5 +1,5 @@
 # AdventOfCode-21
 
-This is a beginner solution of the AdventOfCode
+Beginner solutions of the AdventOfCode_2021
 
 Made in Java
